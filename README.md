@@ -15,7 +15,7 @@ I'm currently developing my skills in cybersecurity, networking, Linux, and secu
 - SIEM
 - Python
 
-## 🎓 Certifications
+## 🎓 Certifications & Certificates
 
 ### IBM SkillsBuild — Cybersecurity and Data
 
