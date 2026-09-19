@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdullah Al Shehab
 
-<!--
-**abdullahal-shehab/abdullahal-shehab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cybersecurity Learner
 
-Here are some ideas to get you started:
+I'm currently developing my skills in cybersecurity, networking, Linux, and security tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 Areas I'm Learning
+
+- Cybersecurity
+- Networking
+- Linux
+- Wireshark
+- Nmap
+- SOC Operations
+- SIEM
+- Python
+
+## 🎓 Certifications
+
+### IBM SkillsBuild — Cybersecurity and Data
+
+- **Issued:** September 18, 2026
+- **Credential:** IBM SkillsBuild
+
+## 🔬 Cybersecurity Projects
+
+Coming soon...
+
+- Wireshark network analysis
+- Nmap scanning labs
+- Linux security labs
+- Python cybersecurity scripts
+- SOC/SIEM labs
+
+## 📫 Connect With Me
+
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/abdullah-al-shehab-705a93437/)
+- GitHub: [My GitHub](https://github.com/abdullahal-shehab)
